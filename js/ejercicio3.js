@@ -8,7 +8,7 @@ function validarCorreo(correo) {
     return regexCorreo.test(correo);
 }
 
-// Ejemplo de uso:
+
 let correo1 = "usuario@example.com";
 let correo2 = "correo_invalido@ejemplo.";
 

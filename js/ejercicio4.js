@@ -1,3 +1,7 @@
+//------------ 4to Ejercicio-------
+
+//Crea una expresión regular que valide un número de teléfono con el formato
+
 let Numero = /^(\d{3})\ (\d{3})-(\d{4})$/;
 
 function ValidarNumero(numeros) {
